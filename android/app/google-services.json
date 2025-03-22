@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51740691666",
+    "project_id": "vuna-pay-2",
+    "storage_bucket": "vuna-pay-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51740691666:android:dd64a6a7e100297b54710b",
+        "android_client_info": {
+          "package_name": "com.vunapay.demo.vunapay_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClk756lUPDZsJoOoNRwG4EcS5Sh1Q3j3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
